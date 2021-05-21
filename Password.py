@@ -64,11 +64,11 @@ if us == username:
 
                     print("WRONG")
                 
-    #if your Password Worng 
+    #if your Passworord Wrong 
     else:
 
         print("Your Password Is Wrong")
-#if user name Worng
+#if user name Wrong
         
 else:
     print("Your details Has Been Invalid")
