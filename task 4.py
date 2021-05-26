@@ -11,4 +11,4 @@ class Str:
 p = Str(input("Enter the first string: "))
 q = Str(input("Enter the second string: "))
 r = p-q
-print(c)
+print(r)
