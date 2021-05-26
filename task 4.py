@@ -8,7 +8,7 @@ class Str:
             	self.var=self.var[0:b]+self.var[b+1:]
         print(self.var)
  
-a= Str(input("Enter the first string: "))
-b = Str(input("Enter the second string: "))
-c = a-b
+p = Str(input("Enter the first string: "))
+q = Str(input("Enter the second string: "))
+r = p-q
 print(c)
